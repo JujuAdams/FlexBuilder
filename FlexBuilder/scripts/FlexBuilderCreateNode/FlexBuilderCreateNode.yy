@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FlexBuilderCreateNode",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FlexBuilderCreateNode",
+  "parent":{
+    "name":"FlexBuilder",
+    "path":"FlexBuilder.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
